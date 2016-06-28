@@ -1,3 +1,6 @@
+{Concepts, conception}
+- this note deals with conceptual abstraction; need to normalize with [outsourcing](Outsourcing.md) and [integration](Integration.md)
+
 Objects that represent patterns found among phenomena.  
 Commonalities as entities distinct from the instances in which they're found.
 
@@ -17,7 +20,6 @@ Embodiment of abstractions:
 	- "what's in a name"
 
 Value of abstractions {TODO: simplify}:
-
 - compression
 	- efficiency of storage, communication, computation
 	- others?
@@ -34,7 +36,7 @@ Value of abstractions {TODO: simplify}:
 	- example of determining how much to slow down/speed up clocks on GPS satellites with/without knowledge of relativity
 	- analogy of analytical vs numerical math
 	- abstractions allow you to solve the problem in an isomorphic {symbolic, virtual} space (e.g. design-space, math-space, cognitive-space) then project the solution back to the implementation-space
-	- functors (fmap :: (a -> b) -> f a -> f b, where (a -> b) is your function in the symbolic space)
+	- functors (fmap :: (a -> b) -> f a -> f b, where (a -> b) is the function in the symbolic space)
 - inter-system coordination {interfaces}
 	- e.g. data interchange formats like JSON and XML allow software systems, by coordinating their behavior, to easily share data
 	- or the shared context (set of abstractions) we use to be able to communicate with symbolic language
@@ -67,20 +69,17 @@ Chunking: it's easier to remember things that can be chunked using preexisting, 
 
 Identity: objects are abstractions over patterns in spacetime.
 
-A note about terminology {verify}:
-- abstraction is the induction of a general type from a collection of tokens
-- generalization is moving up the abstraction hierarchy {structure}
-- specialization is moving down the abstraction hierarchy {structure}
-- refinement?
-Therefore, abstraction and generalization aren't the same thing.  Abstraction implies building a new node, whereas generalization implies just a focus shift (which abstraction also kind of implies).  I think specialization might fit the opposite of both, unless there is a case where the elements of an abstraction are unknown and need to be "built".
-
 Compression and information entropy.
 
 Examples:
 - Football is its own general concept.  The rules don't change from game to game, or if they do, it's easier to store the differences (e.g. college vs NFL or rule changes from year to year) than to store completely separate versions of the sport for each game.
 - the concept of proxies (or any of the other patterns, including abstraction itself!)
-- knowledge, memory: we store abstract concepts, with specializations built on top of them (e.g. the abstract concept "bird", upon which "bald eagle" is built) (refinement types)
-- language
+- knowledge, memory: we store abstract concepts, with specializations built on top of them (e.g. the abstract concept "bird", upon which "bald eagle" is built) (refinement types, genus–differentia definition)
+- big words vs a composition of small words (precise vs imprecise, uncommon vs common)
+	- big words aid the discovery of concepts, in addition to being more compressed than many small words
+	- giving something a name allows you to more easily talk about it; names provide ease of reference
+	- names in general
+	- big words vs idioms
 - freedom of speech: a general principle that is embodied in various laws, which themselves are embodied in the actual enforcement of those laws
 - education standards at the local, state, and federal levels (increasing levels of abstraction from the act of teaching)
 
@@ -94,6 +93,7 @@ Anything to say about abstraction to the limit, as discussed [here](Http://www.y
 The construction of a set of orthogonal (composable/non-redundant/modular/etc) abstractions (a basis) that efficiently spans a subspace.
 
 These bases can be constructed at different levels of abstraction.  With the exception of systems like mathematics (and maybe physics), there most likely doesn't exist (or it wouldn't be practical to construct) a set of abstractions that are perfectly orthogonal and span the entire subspace.  If that's the case, the level of abstraction can be varied to optimize the orthogonality and span of the abstraction set.
+- non-ideal abstractions as a result of inaccurate or imprecise factorization; esp. if the basis doesn't have enough dimensions to efficiently factorize the system
 
 Assuming physicalism {naturalism?} is true, everything can be fully explained by (precise enough) physical laws.  However, these laws are too low-level to be of practical use for high-level phenomena.  Therefore, higher-level, emergent laws must be sought, but are rarely found with orthogonality and span to the degree of the physical laws.  These higher-level laws are studied by other sciences, such as chemistry, biology, and sociology. ([emergence](Emergence.md))
 
@@ -154,8 +154,10 @@ Examples:
 [consensus](Diversity.md#consensus): consensus is a reduction of uncertainty which "clears the path" for specialization
 
 
-### Overgeneralization
-When dealing with imperfect {impure, non-ideal} abstractions, there will be a mismatch between the abstraction's intension and each of its instances.  Expanding the abstraction's intension to encompass novel instances decreases precision and increases mismatch.  Past a certain point, this mismatch cost may outweigh the benefits of abstraction.
+### Generalization
+Expanding the scope of an abstraction.
+
+When dealing with imperfect {impure, non-ideal} abstractions, there will be a mismatch between the abstraction's intension and each of its instances.  Expanding the abstraction's intension to encompass novel instances decreases precision and increases mismatch, but allows for greater abstraction.  Past a certain point, this mismatch cost may outweigh the benefits of abstraction.
 
 Examples:
-- lossy compression (e.g. for music) decreases file size but can degrade quality to unacceptable levels if applied too heavily
+- lossy compression (e.g. for music) decreases file size at the expense of quality

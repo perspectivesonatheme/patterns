@@ -1,11 +1,11 @@
 The selection of an appropriate model {interpretation} such that it accurately represents the subject while minimizing the model's complexity.
 
-The first step in efficiently solving a problem {answering a question} is framing the problem in a way most likely to result in an effective solution.  If all available solutions are bad, it's possible that the problem is poorly framed. Sometimes a dilemma is not resolved by picking one of the alternatives, but by "backing out of" the dilemma by reevaluating the assumptions that created it.
+The first step in efficiently solving a problem {answering a question} is framing the problem in a way most likely to result in an effective solution.  If all available options are bad, it's possible that the problem is poorly framed. Sometimes a dilemma is not resolved by picking one of the alternatives, but by "backing out of" the dilemma by reevaluating the assumptions that created it.
 
 Perspective  
 Frame of reference
 
-"If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions." (Einstein)
+"If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions." (Einstein, reportedly)
 
 Physical analogy: a bunch of objects connected by strings and all jumbled up; attempt to untangle and pick up objects so that, when hanging, they fall in a nice, neat structure. {Need concrete example}
 
@@ -23,7 +23,7 @@ Examples:
 - Arabic vs Roman numerals
 - cartesian vs polar coordinates
 - Pi is a complicated number, even though it's concept is simple. Two different representations for the same thing (C/2r, and 3.14159...); the number is just a reframing of the geometrical representation into a numerical one.
-- Many aspects of human behavior can be viewed instructively through the lens of evolution. E.g. how we choose mates
+- Many aspects of human behavior can be viewed instructively through the lens of evolution.  For example, how we choose mates.
 - (from "Model Thinking", Week 5, lecture 2): sum to 15 card game and tic tac toe as different framings of the same game
 - assuming the earth to be the center of the solar system required the other planets to have complex orbits
 	- or circular vs elliptical orbits

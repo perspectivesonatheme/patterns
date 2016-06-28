@@ -1,4 +1,10 @@
-[Abstraction](Core/Abstraction.md)
+[Abstraction](Core/Abstraction.md)  
+[Abstraction–integration](Core/Abstraction-integration.md)  
+[Outsourcing](Core/Outsourcing.md)  
+[Integration](Core/Integration.md)  
+[Economy of scale](Core/Economy of scale.md)  
+[Interfaces](Core/Interfaces.md)  
+[A la carte](Core/A la carte.md)
 
 [Dynamic analysis](Core/Dynamic analysis.md)  
 [Current practice](Core/Current practice.md)

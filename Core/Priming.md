@@ -5,7 +5,7 @@ Experiences creates expectations (accommodation) which then influence the interp
 Experience modifies our mental basis, which modifies our experience.  
 The feedback between perception and belief.
 
-Statistical inference: inferring properties of an underlying distribution through analysis of samples.  Specifically, Bayesian inference, which this pattern is an example of.
+Statistical inference: inferring properties of an underlying distribution through analysis of samples.  Specifically, Bayesian inference, which this pattern is an instance of.
 
 {TODO: use of "basis" vs "schema"?}
 
@@ -23,7 +23,7 @@ Self-reinforcing preconceptions vs overfitting to a small number of samples
 - a belief can bias the interpretation of evidence such that it reinforces the belief, regardless of whether the unbiased evidence supports it
 	- confirmation bias, prejudice
 	- "When the only tool you have is a hammer, all problems look like nails."
-	- ([feedback loops](Feedback loops.md))
+	- [feedback loops](Feedback loops.md)
 - on the other end of the spectrum, giving too much weight to a small number of samples is [overfitting](Overfitting.md)
 	- "You can't judge a book by its cover."
 		- {However, this proverb is usually used to mean judging something by unrelated criteria (e.g. judging something's content based on how it looks).  I think it also implies judging something by a few samples of the whole (e.g. the title of a book or an excerpt on its cover), but perhaps the proverb isn't the most apt for this use.}

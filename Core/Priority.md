@@ -19,6 +19,7 @@ Examples:
 - software: make it work, then make it beautiful, then make it fast
 	- premature optimization
 	- beautifying code that doesn't solve the right problem
+	- ["You aren't gonna need it"](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
 - establish the utility of the product/idea/etc, and then figure out how to market it
 	- alternatively: create something of value, then find the money
 - 80-20 rule, Pareto principle: don't waste time fixing little things when there are big things to fix

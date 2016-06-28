@@ -51,7 +51,7 @@ Demand-side economy of scale.
 Examples:
 - number of people in a social network: network goes to ubiquity (Facebook) or obscurity (Myspace)
 - applications: the amount of functionality at which a small change would result in either the app being installed or left uninstalled
-	- Some apps are good for what they are, but aren't useful enough to justify installing them (e.g. maybe polling apps {better example?}). Also, I wouldn't carry around a physical notepad, but I do carry around a smartphone with a notepad app ([monolithic systems](Monolithic systems.md)).
+	- Some apps are good for what they are, but aren't useful enough to justify installing them (e.g. maybe polling apps {better example?}). Also, I wouldn't carry around a physical notepad, but I do carry around a smartphone with a notepad app ([integration](Integration.md)).
 	- there are the fixed costs to finding/installing the app itself, and also the integration costs of apps/features with each other
 	- same thing with content in books, blog posts, tweets
 - plurality voting system: the percentage of votes needed to become elected
