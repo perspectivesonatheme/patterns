@@ -2,7 +2,7 @@ This repository contains a collection of abstract patterns.  These patterns invo
 
 **WARNING**: This is a work in progress.  Parts may be outright or subtley wrong, incomplete, oversimplified, or inconsistent, and many statements are given little to no justification or explanation.  Some patterns are not yet ready to be made public because they need verification, cleanup, or refactoring.  Consequently, some links don't point to anything.  These remaining patterns will be added as they reach an acceptable state.
 
-[Organization.md](Organization.md) contains an overview of the patterns grouped roughly by correspondence, which may be useful for guiding exploration.  A good place to start is with [Framing](Core/Framing.md), which is broadly representative of the content and format of the project as a whole.
+See [Philosophy.md](Philosophy.md) for (an initial version of) this project's guiding principles and rationale, along with caveats about its use.  [Organization.md](Organization.md) contains an overview of the patterns grouped roughly by correspondence, which may be useful for guiding exploration.  A good place to start is with [Framing](Core/Framing.md), which is broadly representative of the type of content and format of the project as a whole.
 
 
 ### Format
@@ -29,3 +29,9 @@ If something can be improved, please let me know.  I'm specifically looking for 
 - writing style
 - presentation format, general approach
 - related works (other than those already [listed](Related works.md))
+
+
+### Donate
+If you find this project valuable, please consider donating using one of the methods below.
+
+[Bitcoin](https://www.coinbase.com/perspectives) | [Square Cash](https://cash.me/$perspectivesonatheme) | [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SFNYVQQ3H7TEC&lc=US&item_name=Perspectives%20on%20a%20Theme&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)

@@ -83,6 +83,7 @@ Examples:
 	- beer
 		- also shows the reverse trend where diverse preferences provide a pressure back towards craft ([specialization](Abstraction.md#specialization))
 - game engine vs render system + game object system + resource system, etc
+- hotels vs rv; rv vs 5th wheel
 
 [diversity](Diversity.md)  
 [abstraction](Abstraction.md)  

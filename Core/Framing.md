@@ -5,6 +5,8 @@ The first step in efficiently solving a problem {answering a question} is framin
 Perspective  
 Frame of reference
 
+[Hobby horse](http://c2.com/cgi/wiki?HobbyHorse)
+
 "If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions." (Einstein, reportedly)
 
 Physical analogy: a bunch of objects connected by strings and all jumbled up; attempt to untangle and pick up objects so that, when hanging, they fall in a nice, neat structure. {Need concrete example}

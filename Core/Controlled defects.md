@@ -24,7 +24,7 @@ Realtionship to [criticality](Criticality.md)
 - the "line in the sand" as the critical point?
 - so this pattern would be about what happens when you change the critical point?
 
-https://en.wikipedia.org/wiki/Self-organized_criticality_control
+[Self-organized criticality control (Wikipedia)](https://en.wikipedia.org/wiki/Self-organized_criticality_control)
 
 There is of course the flip side of this too: being too lax on undesirable behavior. ([slippery slope](Slippery slope.md))
 

@@ -1,6 +1,6 @@
 Out of all the theories that fit the evidence, the simplest theory should be preferred.
 
-On the simple -> complex scale, the upward pressure (towards complex) is created by the fact that overly simple explanations just don't fit the evidence.  However, there's no inherent downward pressure.  An overly complex explanation will still fit the current evidence but is more likely to diverge from future evidence ([overfitting](Overfitting.md)).  This is due to the fact that the number of theories of a given complexity increases with the degree of complexity.  Therefore, the theory with the highest probability of being correct (i.e. the mode ([distributions](Distributions.md))) is the simplest one.
+On the simple -> complex scale, the upward pressure (towards complex) is created by the fact that overly simple explanations just don't fit the evidence.  However, there's no inherent downward pressure.  An overly complex explanation will still fit the current evidence but is more likely to diverge from future evidence ([overfitting](Overfitting.md)).  This is due to the fact that the number of theories of a given complexity increases with the degree of complexity.  Therefore, the theory with the highest probability of being "closest to the truth" (i.e. the mode ([distributions](Distributions.md))) is the simplest one.
 
 Principle of parsimony
 

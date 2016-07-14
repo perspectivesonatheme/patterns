@@ -12,6 +12,7 @@ Examples:
 - rational actor model {verify, improve}: its use in some situations depends on the value being optimized: short term (marginal) utility, or utility at some later date?  In other words, at present, is the 1st order derivative being optimized, or the 2nd, 3rd, etc?  Or more precisely, what is the utility function for all the orders put together (e.g. U = .2*first + .4*second + .6*third; need to take into account increasing uncertainty for higher orders)?
 	- for example, if someone increases their marginal utility by cheating someone else, it may be irrational if future costs are factored in (social consequences, unlikely to be trusted in the future, etc)
 	- [bounded rationality](Bounded rationality.md)
+	- "win the battle but lose the war"
 
 [uncertainty](Uncertainty.md)
 
