@@ -5,8 +5,8 @@ The ordering of concerns by importance.
 When a concern is of primary importance, with other concerns being addressed in a subordinate manner.
 
 {dominant, principal} vs {residual, remainder}  
-"Progressive precision"
-- axe, hatchet, chisel, sandpaper
+"Progressive refinement"
+- chainsaw, hatchet, chisel, sandpaper
 
 Note that priority is usually not cut and dry, e.g. if a goal is impossible due to subordinate concerns. However, this may be caused by a defect in the specification of the concerns. One or more concerns are probably aggregates of smaller, more fundamental concerns, and should be refactored. Nevertheless, such refactoring can often be impractical, necessitating a slightly more global view of the problem rather than a purely local view of the primary concern.
 

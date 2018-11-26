@@ -15,4 +15,4 @@ Examples:
 
 [equilibrium](Equilibrium.md): two different views on the same thing; lpf emphasizes slow change, equilibrium emphasizes a return to a set-point  
 [priming](Priming.md), [baseline](Equilibrium.md#baseline), [desensitization](Equilibrium.md#desensitization): "rubber band effect" between the baseline and the deviation  
-[justified means](Justified means.md) and [ignorance](Ignorance.md): lpf controlling for the risk of extreme signals being wrong
+[justified means](Justified%20means.md) and [ignorance](Ignorance.md): lpf controlling for the risk of extreme signals being wrong

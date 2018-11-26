@@ -6,6 +6,7 @@
 - [A Lesson on Elementary, Worldly Wisdom As It Relates To Investment Management & Business](https://old.ycombinator.com/munger.html)
 - [Developing Good Research Skills: Compressing Knowledge](http://rs.io/developing-good-research-skills-compressing-knowledge/)
 - [Mental models I find repeatedly useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.5la6t5io3)
+- [Mental Models: The Best Way to Make Intelligent Decisions](https://www.fs.blog/mental-models/)
 <br><br>
 - Douglas Hofstadter - "Godel, Escher, Bach"
 - Stephen Wolfram - "A New Kind of Science"

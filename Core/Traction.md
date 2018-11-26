@@ -15,7 +15,7 @@ Maximizing benefit while maintaining an acceptable level of cost.  Often, increa
 {Improve, add picture}  
 Think of as a graph of number of attempts vs value of outcome and difficulty (using a 2d graph these can be combined, with increasing value up to a point, then zero value after, which represents failure {the value curve doesn't have to be y=x followed by y=0, but it's a good simplification; it could be any function, e.g. maybe it just switches to y=-x instead of y=0}). The graph of attempts would form a distribution (since it's impossible to perfectly evaluate task difficulty, there will be some imprecision). You want to position the distribution so that, when multiplied by the value function, you maximize its integral.  It's like launching a car from a standstill: you try to give the most throttle while maintaining grip to achieve the best acceleration (hence "traction").
 
-If you're not failing at all, it's possible the curve is too far to the left - for example, maybe you're not taking enough risks.  However, you also want to make the distribution as skinny as possible, so you can move it as far to the right as possible without failing too much.
+If you're not failing at all, it's possible the curve is too far to the left—maybe you're not taking enough risks.  However, you also want to make the distribution as skinny as possible, so you can move it as far to the right as possible without failing too much.
 
 The differentiating factor here as compared to the other criticality patterns is imprecision in the selection function, and optimality of the critical point. Otherwise it's just [criticality](Criticality.md): switching between two classes of behavior.
 
@@ -29,7 +29,7 @@ Examples:
 - biological evolution: balance between more mutations (more chance for innovation and more risk) and fewer mutations (less innovation, less risk)
 - balance "aggressiveness" of humans' pattern recognition ability between weak recognition and [overfitting](Overfitting.md) (recognizing patterns that don't exist)
 - balance creativity and other positive mental qualities with schizophrenia and other psychopathologies
-- similarly, balance between weak and overly aggressive immune system (fight off pathogens but limit allergies)
+- balance between weak and overly aggressive immune system (fight off pathogens but limit allergies)
 	- [false positives and false negatives](Testing.md#false-positives-and-false-negatives)
 - balance between questioning authority and believing extreme conspiracy theories
 - balance cynicality and gullibility
@@ -48,7 +48,7 @@ Examples:
 - Equilibrium (the movie): getting rid of all of the bad parts of human nature at the expense of all the good parts
 - race cars push the limit of performance, risking mechanical failures, safety, etc
 
-[accuracy and precision](Accuracy and precision.md): this pattern is due to imprecision in the control of the variables of interest  
+[accuracy and precision](Accuracy%20and%20precision.md): this pattern is due to imprecision in the control of the variables of interest  
 [criticality](Criticality.md)  
-[low-pass filter](Low-pass filter.md)  
+[low-pass filter](Low-pass%20filter.md)  
 [investment](Investment.md)

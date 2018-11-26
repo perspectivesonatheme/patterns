@@ -8,15 +8,17 @@ A good analogy is plate tectonics. If there's too much friction as two plates sl
 
 Equilibrium vs feedback loops: negative vs positive feedback
 
-Stable vs unstable equilibriums.  
-Attractors.
+Stable vs unstable equilibria  
+Attractors
 
 Examples:
 - healing of biological systems
 - growing pains: negative reaction to a movement of an equilibrium's setpoint
 - "honeymoon" phase: a pleasant phase before something settles into an equilibrium
 
-Related: Degrading gracefully: if the force required to pull a parameter away from equilibrium increases as the distance from equilibrium increases {right?}.  It's important to not just consider how a design fits the problem, but also its failure modes.  For example, instituting a dictatorship might be a good way to fix the current problems of a country, but it has historically turned out bad in the long run when someone abuses the power of the position (i.e. it's an unstable equilibrium).
+Related: degrading gracefully
+- when the force required to pull a parameter away from equilibrium increases as the distance from equilibrium increases {right?}
+- it's important to not just consider how a design fits the problem, but also its failure modes; for example, instituting a dictatorship might be a good way to fix the current problems of a country, but it has historically turned out badly in the long run when someone abuses the power of the position (i.e. it's an unstable equilibrium)
 
 [predictions](Predictions.md): it can be difficult to predict changes to the system as a whole when a parameter gets too far from equilibrium
 

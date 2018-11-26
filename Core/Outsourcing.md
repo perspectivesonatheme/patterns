@@ -1,7 +1,7 @@
 {TODO: normalize with [abstraction](Abstraction.md) and [integration](Integration.md)}
 - see [abstraction-integration](Abstraction-integration.md) for the tradeoffs between abstraction/outsourcing and integration
 
-Putting an interface between entities allows them to vary independently, as long as they both conform to the interface's specification.
+Pulling a part out into its own entity allows it to vary independently, as long as it conforms to some specification.
 
 The abstraction of objects or processes. {?}
 
@@ -10,7 +10,7 @@ The abstraction of objects or processes. {?}
 No single person knows how to make a pencil.
 - all of the parts to a standard pencil are outsourced to specialized producers
 
-Reductionism: efficient outsourcing relies on the ablility to decompose a system around simple interfaces.
+Reductionism: efficient outsourcing relies on the ability to decompose a system around simple interfaces. ([factorization](Factorization.md))
 
 Modularity {composability, abstraction, destructuring}
 
@@ -20,19 +20,26 @@ Examples:
 - outsourcing parts of thought and communication to specialized languages (e.g. math)
 - beliefs: outsourcing beliefs to other people or organizations
 - mental abilities
-	- outsourcing memory to notes, books, Google
+	- outsourcing memory to notes, books, search engines
 	- calculators, computers in general
 - skills
-	- Basic skills like arithmetic don't need to be known to a high level of proficiency (e.g. doing complex mental math) because arithmetic can be outsourced to computers.
-	- Similarly, a programmer's need for proficiency in writing assembly code decreases as compilers' abilities in translating high-level languages to assembly increases.
-	- The mean of this distribution moves toward more and more advanced (and hence specialized) skills/knowledge as more and more skills/knowledge become commoditized.
+	- basic skills like arithmetic don't need to be known to a high level of proficiency (e.g. doing complex mental math) because arithmetic can be outsourced to computers
+	- similarly, a programmer's need for proficiency in writing assembly code decreases as compilers' abilities in translating high-level languages to assembly increases
+	- the mean of this distribution moves toward advanced (and hence specialized) skills/knowledge as skills/knowledge become commoditized
 - consultants, contractors and subcontractors
+- remote vs in-office workers
 - in contrast to homemade
 - microservices
 - outsourcing code to a function (or library)
-	- and the opposite is inlining, necessary because of the costs of the function interface
+	- and the opposite is inlining, effective because of the costs of the function interface
 - outsourcing to team members (delegation)
 - the unix philosophy
+- representative vs direct government
+- outsourcing to specialized (as opposed to general-purpose) hardware: floating point processing, GPUs
+
+Interface costs:
+- product packaging
+- cabling
 
 [interfaces](Interfaces.md): e.g. between producers and suppliers (e.g. specifications)  
 [diversity](Diversity.md)
@@ -56,5 +63,5 @@ Examples:
 - divide and conquer
 - swappable batteries
 - load balancer between clients and servers
-- sourcing from multiple suppliers in order to increase a part's supply
+- sourcing from multiple suppliers
 - small modular nuclear reactors

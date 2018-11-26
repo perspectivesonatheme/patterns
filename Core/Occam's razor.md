@@ -1,12 +1,12 @@
-Out of all the theories that fit the evidence, the simplest theory should be preferred.
-
-On the simple -> complex scale, the upward pressure (towards complex) is created by the fact that overly simple explanations just don't fit the evidence.  However, there's no inherent downward pressure.  An overly complex explanation will still fit the current evidence but is more likely to diverge from future evidence ([overfitting](Overfitting.md)).  This is due to the fact that the number of theories of a given complexity increases with the degree of complexity.  Therefore, the theory with the highest probability of being "closest to the truth" (i.e. the mode ([distributions](Distributions.md))) is the simplest one.
+There is a complexity floor below which a theory will not have enough bits {degrees of freedom} to fit the data.  However, there is no ceiling—a theory with more bits than needed can still fit the data.  Among fitting theories, the more complex ones:
+- require more computation to apply and manipulate
+- obfuscate relationships and patterns with irrelevant information
+- suggest a more precise interpretation than is warranted
 
 Principle of parsimony
 
-Flying spaghetti monster: an alternative complex theory
-
-[entropy](Entropy.md): the number of theories (microstates) of a given complexity (macrostate) increases with the degree of complexity; i.e. entropy increases with degrees of freedom
+[entropy](Entropy.md): the number of theories (microstates) of a given complexity (macrostate) increases with the degree of complexity
+[overfitting](Overfitting.md): noise in the data can give the impression of complexity
 
 
 {Unify the following?}
@@ -16,9 +16,8 @@ A sufficiently broad {adaptable} theory can appear to explain phenomena.
 Prediction, falsifiability, constraint of expectations
 
 Examples:
-- miracles
 - string theory?
-- the universe isn't governed by natural laws, it's managed by a supreme being
+- God as an omnipotent being with unknowable rationale
 - "There's no way the program should be doing that—must be a compiler bug."
 
 
@@ -27,3 +26,4 @@ Given phenomena, the ability to cherry pick aspects which fit an alternative the
 
 Examples:
 - conspiracy theories
+- astrology

@@ -1,6 +1,6 @@
 The transition of a system between two different classes of behavior.
 
-TODO: Difference between the transition between two classes of behavior (traffic), and the addition of two opposed functions (coal worker, failure rate)?
+{TODO: Difference between the transition between two classes of behavior (traffic), and the addition of two opposed functions (coal worker, failure rate)?}
 - Or are they really the same thing?  Think about the traffic or hash tables examples—it won't be perfectly linear up to the critical point.  The second car on a road has a small chance of slightly impeding the first, and there's a small chance of hash collision even with only two elements.  This would mean there aren't any discontinuities.  They're all just function addition/multiplication where the dominant behavior transitions from one to another.
 
 There can be hidden or opportunity costs to approaching 100% utilization (see personal free time example).
@@ -17,15 +17,15 @@ Examples:
 - how much coal a worker can carry vs the size of the shovel
 	- two opposed functions: coal carrying capacity and worker exertion
 - failure rate: a plot of any creation's failure rate vs age will be u-shaped, with more failures early on from manufacturing or design flaws, and more failures later on from wear or increasing mismatch between design and environment. E.g. manufactured products, human beings, governments
-- the sweet spot of a car's speed when attempting to maximize fuel economy: economy of scale due to fixed cost of running gas engine/accessories vs increasing resistance from wind and friction
+- the sweet spot of a car's speed when attempting to maximize fuel economy: economy of scale due to fixed cost of running gas engine/accessories vs increasing resistance from drag and friction
 
 
 ### Activation energy
-When an external impulse is required to start a self-sustaining reaction.
+An external impulse supplied to start a self-sustaining reaction.
 
 Critical mass, tipping point, threshold, upfront costs, action potential (which is what happens when an activation energy is reached), jump-start, "getting over the hump"
 
-Catalyst: an externality that lowers the activation energy  
+Catalyst: an external agent that lowers the activation energy  
 Stimulus: a provision of the activation energy
 
 "Galvanize"
@@ -42,7 +42,7 @@ Examples:
 
 
 ### Critical mass
-When a certain level must be reached before a system becomes profitable.
+When a certain level must be reached before a system becomes viable.
 
 The critical point at which a small change could push the system towards either of two outcomes.
 

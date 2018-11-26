@@ -30,4 +30,4 @@ Underfitting:
 
 [proxies](Proxies.md)  
 [priming](Priming.md): a prior is a guard against overfitting to new evidence  
-[occam's razor](Occam's razor.md)
+[occam's razor](Occam's%20razor.md)
