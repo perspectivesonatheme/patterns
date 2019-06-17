@@ -14,6 +14,12 @@ Physical analogy: a bunch of objects connected by strings and all jumbled up; at
 
 Looking at some physical object from different perspectives. From one angle, the object looks complex and random, so describing it would require a large amount of information. From another angle, the object looks very orderly and has a simple description.
 
+Eye Illusion by Michael Murphy
+https://imgur.com/FRZFE1v
+https://imgur.com/4ZKAesg
+https://imgur.com/xxxqbD6
+https://www.youtube.com/watch?v=fh9Hx-Uujno
+
 Edge cases can be an indicator of an inappropriate model.  They mean that the model doesn't fit the subject at certain points, and could be a sign that the model has other inaccuracies that haven't yet been discovered.
 
 "Break the problem along its fault lines"  
