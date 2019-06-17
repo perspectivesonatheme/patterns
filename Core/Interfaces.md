@@ -1,6 +1,6 @@
 Anything that acts as a common interface between sets of disparate entities.
 
-The sets of disparate entities may be composed of competitive alternatives and/or cooperative elements.
+The sets of disparate entities may be factorized of competitive alternatives (sum types? https://en.wikipedia.org/wiki/Tagged_union) and/or cooperative elements (product types?).
 
 The interface must provide the primitives necessary to "host" its users.
 - for example, IP can host any arbitrary data format
@@ -30,6 +30,7 @@ Examples:
 - standard cables and jacks (as compared to "hard-wired")
 - data interchange formats like JSON and XML
 - monads allow monadic types to be composed in a uniform way (e.g. Haskell's do notation)
+- cell membranes that allow inflow/outflow of chemicals?
 
 [consensus](Diversity.md#consensus): having a single common interface can be more efficient than having multiple custom interfaces  
 [media](Media.md)  
