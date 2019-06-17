@@ -1,4 +1,4 @@
-{Rename?}
+{Rename?: This appears as minimizing misfits in the work of C. Alexander: http://wiki.c2.com/?NotesOnTheSynthesisOfForm}
 
 Balancing competing, correlated concerns to maximize overall utility.
 
