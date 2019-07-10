@@ -10,6 +10,14 @@ Frame of reference
 "If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions." (Einstein, reportedly)
 
 Physical analogy: a bunch of objects connected by strings and all jumbled up; attempt to untangle and pick up objects so that, when hanging, they fall in a nice, neat structure {need concrete example}.
+
+Planar lattices can be transformed to cubes.
+Imagine a lattice like this one:
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hasse_diagram_of_powerset_of_3.svg/858px-Hasse_diagram_of_powerset_of_3.svg.png
+
+It can be seen to be corners of a cube.
+If we can find a diagram with further subdivisions, we can get a tangled object which if you take up the right vertex and pull it upwords and it the legs of it gets clicked together to form a huge well subdivided cube.
+
 - or the graph visualization libraries that try to lay out all the nodes and edges such that there's minimal node overlap and edge crossings
 
 Looking at some physical object from different perspectives. From one angle, the object looks complex and random, so describing it would require a large amount of information. From another angle, the object looks very orderly and has a simple description.
