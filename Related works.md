@@ -15,3 +15,8 @@
 - General semantics (Korzybski)
 - Tektology (Bogdanov)
 - Synergetics (Fuller, Haken)
+- Wholeness and Implicate Order (Bohm)
+https://en.wikipedia.org/wiki/Wholeness_and_the_Implicate_Order
+
+Category Theory
+nLab: https://ncatlab.org/
