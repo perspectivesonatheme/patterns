@@ -29,5 +29,5 @@ Examples:
 - as compared to dead reckoning: using only your previous position to determine current position; errors accumulate without a fixed reference point
 	- restarting a computer as a means to revert to a fixed reference point
 
-[low-pass filter](Low-pass%20filter.md)  
+[low-pass filter](Low-pass%20filter.md)\
 [chesterton's fence](Chesterton's%20fence.md)

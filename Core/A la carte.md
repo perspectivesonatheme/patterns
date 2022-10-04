@@ -1,4 +1,4 @@
-A la carte vs package  
+A la carte vs package\
 Pay per ____ vs subscription
 
 With packages, some things "come along for the ride" that would otherwise not be valuable enough to get a la carte.
@@ -25,5 +25,5 @@ Examples:
 - loyalty programs
 	- discounted marginal costs in exchange for fixed payments, signing up for a credit card, etc
 
-[integration](Integration.md)  
+[integration](Integration.md)\
 [diversity](Diversity.md): packages collapse diversity

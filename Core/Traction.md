@@ -12,14 +12,14 @@ Maximizing benefit while maintaining an acceptable level of cost.  Often, increa
 	_____________________________________|_____________
 	Increasing reward if successful ->   | Failure ->
 
-{Improve, add picture}  
+{Improve, add picture}\
 Think of as a graph of number of attempts vs value of outcome and difficulty (using a 2d graph these can be combined, with increasing value up to a point, then zero value after, which represents failure {the value curve doesn't have to be y=x followed by y=0, but it's a good simplification; it could be any function, e.g. maybe it just switches to y=-x instead of y=0}). The graph of attempts would form a distribution (since it's impossible to perfectly evaluate task difficulty, there will be some imprecision). You want to position the distribution so that, when multiplied by the value function, you maximize its integral.  It's like launching a car from a standstill: you try to give the most throttle while maintaining grip to achieve the best acceleration (hence "traction").
 
 If you're not failing at all, it's possible the curve is too far to the left—maybe you're not taking enough risks.  However, you also want to make the distribution as skinny as possible, so you can move it as far to the right as possible without failing too much.
 
 The differentiating factor here as compared to the other criticality patterns is imprecision in the selection function, and optimality of the critical point. Otherwise it's just [criticality](Criticality.md): switching between two classes of behavior.
 
-"Double-edged sword"  
+"Double-edged sword"\
 "Two sides of the same coin"
 
 Examples:
@@ -48,7 +48,7 @@ Examples:
 - Equilibrium (the movie): getting rid of all of the bad parts of human nature at the expense of all the good parts
 - race cars push the limit of performance, risking mechanical failures, safety, etc
 
-[accuracy and precision](Accuracy%20and%20precision.md): this pattern is due to imprecision in the control of the variables of interest  
-[criticality](Criticality.md)  
-[low-pass filter](Low-pass%20filter.md)  
+[accuracy and precision](Accuracy%20and%20precision.md): this pattern is due to imprecision in the control of the variables of interest\
+[criticality](Criticality.md)\
+[low-pass filter](Low-pass%20filter.md)\
 [investment](Investment.md)

@@ -5,13 +5,13 @@ The level of abstraction of a basis can be varied to optimize its orthogonality 
 
 Fundamental physics describes the universe but is too low-level to practically explain high-level phenomena.  Higher-level laws are practical but lack the orthogonality and span of the physical laws.  These higher-level laws are studied by other sciences, such as chemistry, biology, and classical mechanics. ([emergence](Emergence.md))
 
-"Combing the hairball"  
+"Combing the hairball"\
 "Untying the knot"
 
-Normalization  
-Refactoring: translating a system into a new basis  
-Axiomatic systems  
-Factor analysis  
+Normalization\
+Refactoring: translating a system into a new basis\
+Axiomatic systems\
+Factor analysis\
 Formal concept analysis
 
 Fault lines: boundaries of simplest interface
@@ -28,5 +28,5 @@ Examples:
 - a power series as an infinite basis where each subsequent term "fine-tunes" the previous ones
 - the set of primes as factors of the natural numbers
 
-[abstraction](Abstraction.md)  
+[abstraction](Abstraction.md)\
 [framing](Framing.md): factorization is the construction of a basis; framing is the selection of a basis {?}

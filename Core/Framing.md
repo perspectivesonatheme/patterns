@@ -2,7 +2,7 @@ The selection of an appropriate model {interpretation} such that it accurately r
 
 The first step in efficiently solving a problem {answering a question} is framing the problem in a way most likely to result in an effective solution.  If all available options are bad, it's possible that the problem is poorly framed. Sometimes a dilemma is not resolved by picking one of the options, but by "backing out" of the dilemma by reevaluating the assumptions that created it.
 
-Perspective  
+Perspective\
 Frame of reference
 
 [Hobby horse](http://c2.com/cgi/wiki?HobbyHorse)
@@ -16,7 +16,7 @@ Looking at some physical object from different perspectives. From one angle, the
 
 Edge cases can be an indicator of an inappropriate model.  They mean that the model doesn't fit the subject at certain points, and could be a sign that the model has other inaccuracies that haven't yet been discovered.
 
-"Break the problem along its fault lines"  
+"Break the problem along its fault lines"\
 "Carve the problem at its joints"
 
 Support vector machines: "an SVM model is a representation of the examples as points in space, mapped so that the examples of the separate categories are divided by a clear gap that is as wide as possible." (Wikipedia)
@@ -53,5 +53,5 @@ Viewing things using inapt standards:
 - contrast ratio as an OLED spec
 - judging a smartphone by how well it makes calls and sends texts
 
-[meaningless questions](Meaningless%20questions.md)  
+[meaningless questions](Meaningless%20questions.md)\
 [factorization](Factorization.md)

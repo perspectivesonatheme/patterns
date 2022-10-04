@@ -21,6 +21,6 @@ This note contains a high level overview.  For examples and more information on 
 
 {TODO: need a unified model for this.  *Reuse* and *economy of scale* are essentially the same thing, as are *specialization* and *cohesion* {maybe}.}
 
-[integration](Integration.md)  
-[outsourcing](Outsourcing.md)  
+[integration](Integration.md)\
+[outsourcing](Outsourcing.md)\
 [abstraction](Abstraction.md)

@@ -5,7 +5,7 @@ There is a complexity floor below which a theory will not have enough bits {degr
 
 Principle of parsimony
 
-[entropy](Entropy.md): the number of theories (microstates) of a given complexity (macrostate) increases with the degree of complexity
+[entropy](Entropy.md): the number of theories (microstates) of a given complexity (macrostate) increases with the degree of complexity\
 [overfitting](Overfitting.md): noise in the data can give the impression of complexity
 
 
@@ -21,7 +21,7 @@ Examples:
 - "There's no way the program should be doing that—must be a compiler bug."
 
 
-In uncertain (esp. complex) situations, there's bound to be aspects which fit a simple and plausible theory.  
+In uncertain (esp. complex) situations, there's bound to be aspects which fit a simple and plausible theory.\
 Given phenomena, the ability to cherry pick aspects which fit an alternative theory.
 
 Examples:

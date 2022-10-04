@@ -19,6 +19,6 @@ Examples:
 - watching a documentary and believing it's message; discover issues with the documentary's claims which casts doubt on the whole film; slowly figure out which of its arguments are flawed and which are valid
 - not clean enough living environments -> too clean of living environments {maybe}
 
-[justified means](Justified%20means.md): justified means is often used to popularize the bias (or new product), and people can take that extreme view literally, instead of as a corrective force ([anchoring](Justified%20means.md#anchoring))  
-[current practice](Current%20practice.md)  
+[justified means](Justified%20means.md): justified means is often used to popularize the bias (or new product), and people can take that extreme view literally, instead of as a corrective force ([anchoring](Justified%20means.md#anchoring))\
+[current practice](Current%20practice.md)\
 [low-pass filter](Low-pass%20filter.md)

@@ -41,7 +41,7 @@ Interface costs:
 - product packaging
 - cabling
 
-[interfaces](Interfaces.md): e.g. between producers and suppliers (e.g. specifications)  
+[interfaces](Interfaces.md): e.g. between producers and suppliers (e.g. specifications)\
 [diversity](Diversity.md)
 
 

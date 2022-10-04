@@ -25,12 +25,12 @@ An external impulse supplied to start a self-sustaining reaction.
 
 Critical mass, tipping point, threshold, upfront costs, action potential (which is what happens when an activation energy is reached), jump-start, "getting over the hump"
 
-Catalyst: an external agent that lowers the activation energy  
+Catalyst: an external agent that lowers the activation energy\
 Stimulus: a provision of the activation energy
 
 "Galvanize"
 
-Upfront costs: big upfront cost vs small recurring costs  
+Upfront costs: big upfront cost vs small recurring costs\
 Learning curves: long, but tool is very powerful vs short, but tool is limited in power
 - e.g. latex vs word processor, vim/emacs vs nano
 

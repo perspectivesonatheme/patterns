@@ -12,13 +12,13 @@ Integrated systems may be inefficient if their parts are general and can be used
 
 Integrated vs abstracted is a relative distinction.  A software library is modular when compared to a program, but integrated when compared to the library's individual functions.
 
-Consolidation  
+Consolidation\
 Locality
 
 Logistics: the task of coordinating the elements of a complex system
 
-"Batteries included"  
-"Everything but the kitchen sink" (implies over-consolidation)  
+"Batteries included"\
+"Everything but the kitchen sink" (implies over-consolidation)\
 As opposed to "bolted on"
 
 Disjoint: the state of being abstracted when integration would be more efficient
@@ -119,8 +119,8 @@ Examples:
 - comforter vs duvet + duvet cover
 
 
-[diversity](Diversity.md)  
-[abstraction](Abstraction.md)  
+[diversity](Diversity.md)\
+[abstraction](Abstraction.md)\
 [critical mass](Criticality.md#critical-mass): of features, etc., before system is worth the fixed costs
 
 

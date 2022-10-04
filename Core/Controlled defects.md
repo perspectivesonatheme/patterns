@@ -2,16 +2,16 @@
 
 When defects are bound to form, it can be beneficial to introduce them in a controlled way so as to minimize their impact.
 
-Giving unpreventable behavior a safe outlet, even though it might increase its prevalence.  
+Giving unpreventable behavior a safe outlet, even though it might increase its prevalence.\
 The balance between providing an outlet but reinforcing undesirable behavior, and discouraging undesirable behavior but pushing its practice to the unregulated margins.
 
-Relaxing restrictions when they are unenforceable.  
+Relaxing restrictions when they are unenforceable.\
 Maintaining control of a system even when there are costs to doing so.
 
 Criminalizing or otherwise absolutely disallowing undesirable but largely unpreventable behavior may not only push that behavior to the unregulated margins, but can also breed disrespect for the rule of law.  Analogy of trying to compress some gas beyond your ability to contain it: some of the gas escapes out the sides, fully decompressing.  The goal is to create the smallest volume of gas possible, which means maintaining control of it instead of trying to force an unrealizable ideal. Of course some gas will always escape, so a balance is needed between minimizing escape by using less compression and minimizing volume by using more compression.  Also need to factor in the possibility that the gas shouldn't actually be compressed ([justified means](Justified%20means.md)).
 
-Only draw a line in the sand if it's defensible.  
-Bend, don't break.  
+Only draw a line in the sand if it's defensible.\
+Bend, don't break.\
 Breakpoints
 
 Cover-ups. The Streisand effect. Back-fire.

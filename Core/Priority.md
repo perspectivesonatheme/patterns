@@ -4,7 +4,7 @@ The ordering of concerns by importance.
 
 When a concern is of primary importance, with other concerns being addressed in a subordinate manner.
 
-{dominant, principal} vs {residual, remainder}  
+{dominant, principal} vs {residual, remainder}\
 "Progressive refinement"
 - chainsaw, hatchet, chisel, sandpaper
 
@@ -12,7 +12,7 @@ Note that priority is usually not cut and dry, e.g. if a goal is impossible due 
 
 Violation of this pattern often called "the tail that wags the dog". Or "putting the cart before the horse". "You can't shine shit". "Putting lipstick on a pig".
 
-"Smoke test": validating an early property  
+"Smoke test": validating an early property\
 "Fine tooth comb": addressing later concerns
 
 Examples:

@@ -2,16 +2,16 @@
 
 The priming of expectations.
 
-Evaluation of an uncertainty using indirect evidence.  
-Experiences create expectations (accommodation) which then influence the interpretation of future experiences (assimilation).  
-Experience modifies our mental basis, which modifies our experience.  
+Evaluation of an uncertainty using indirect evidence.\
+Experiences create expectations (accommodation) which then influence the interpretation of future experiences (assimilation).\
+Experience modifies our mental basis, which modifies our experience.\
 The feedback between perception and belief.
 
 Statistical inference: inferring properties of an underlying distribution through analysis of samples.  Specifically, Bayesian inference, which this pattern is an instance of.
 
 {TODO: use of "basis" vs "schema"?}
 
-[Schema (Wikipedia)](https://en.wikipedia.org/wiki/Schema_(psychology))  
+[Schema (Wikipedia)](https://en.wikipedia.org/wiki/Schema_(psychology))\
 [Priming (Wikipedia)](https://en.wikipedia.org/wiki/Priming_(psychology))
 
 Due to uncertainty, it's not always rational to update a belief {basis, schema} when presented with conflicting evidence.  If you have a successful belief (i.e. it has strong predictive ability) and one piece of evidence doesn't fit, you have to weigh the probability that the belief is wrong against the probability that the evidence is wrong (spurious or noisy data, misinterpretation of data, etc).  Compare this to someone without an existing belief (e.g. if they're young): since they have no belief for the evidence to contradict, they're free to accept it as is.  Comparatively, the person defending their belief may seem biased (and they may very well be, if they give more credence to their belief than it deserves).
@@ -19,7 +19,7 @@ Due to uncertainty, it's not always rational to update a belief {basis, schema} 
 - Carl Sagan, “The Burden of Skepticism”
 - (When asked what he would have done had Sir Eddington's observations been inconsistent with his theory of general relativity) "Then I would have been sorry for the dear Lord; the theory is correct." (Einstein)
 
-Dogma: something like an absolute prior  
+Dogma: something like an absolute prior\
 Retrodiction: using present information to explain past events
 - for example, if you were told something was cheap and you didn't like it, then were told it was actually expensive which made you like it more
 Retcon
@@ -68,11 +68,11 @@ Examples:
 - knowledge is the basis with which a stimulus (data) is transformed into a perception (information, signal)
 - brands: opinion of a brand influences and is influenced by people's evaluation of a product
 
-[ignorance](Ignorance.md): how things are evaluated when the evaluator lacks knowledge of the subject  
-[uncertainty](Uncertainty.md)  
-[low-pass filter](Low-pass%20filter.md)  
-[overfitting](Overfitting.md)  
-[justified means](Justified%20means.md)  
-[framing](Framing.md)  
-[factorization](Factorization.md)  
+[ignorance](Ignorance.md): how things are evaluated when the evaluator lacks knowledge of the subject\
+[uncertainty](Uncertainty.md)\
+[low-pass filter](Low-pass%20filter.md)\
+[overfitting](Overfitting.md)\
+[justified means](Justified%20means.md)\
+[framing](Framing.md)\
+[factorization](Factorization.md)\
 [isomorphism](Isomorphism.md): this pattern applies to all isomorphic systems {verify}

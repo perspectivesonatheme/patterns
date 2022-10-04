@@ -8,7 +8,7 @@ A good analogy is plate tectonics. If there's too much friction as two plates sl
 
 Equilibrium vs feedback loops: negative vs positive feedback
 
-Stable vs unstable equilibria  
+Stable vs unstable equilibria\
 Attractors
 
 Examples:
@@ -36,14 +36,14 @@ Examples:
 
 
 ### Baseline
-Baseline vs deviation  
+Baseline vs deviation\
 Reference dependence
 
-Norm, reference (point)  
-Ground state vs excited  
-Home base  
-Habitual vs occasional behavior  
-Lifestyle vs goal (e.g. dieting, exercise)  
+Norm, reference (point)\
+Ground state vs excited\
+Home base\
+Habitual vs occasional behavior\
+Lifestyle vs goal (e.g. dieting, exercise)\
 Background vs signal
 
 Regression to the mean

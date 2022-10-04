@@ -1,6 +1,6 @@
 The imitation of behavior using insufficient fidelity to reproduce the desired effect.
 
-Recreating a correlation without the necessary causation.  
+Recreating a correlation without the necessary causation.\
 The misattribution of effects.
 
 The lack of understanding of the rationale behind a behavior, resulting in incorrect reproduction.
@@ -31,10 +31,10 @@ Also: "successful cargo cult" {rename}: when an incidental {apparent, imaginary,
 - [right for the wrong reasons](Justified%20beliefs.md)
 - regular cargo cult is a misattribution of effect; this is a misjustification of behavior
 
-[proxies](Proxies.md)  
-[conflation](Conflation.md): treating both the actual and cargo cult behavior as if they should have the same results  
-[ignorance](Ignorance.md)  
-[overfitting](Overfitting.md): related to underfitting?  
-[isomorphism](Isomorphism.md): to the cargo cult follower, their behavior is isomorphic to the behavior they're imitating; to the "actual practitioner" however, the cargo cult behavior is not isomorphic to their own  
-[empirical vs theoretical](Empirical%20vs%20theoretical.md): cargo cult is similar to not having the theory behind your actions  
+[proxies](Proxies.md)\
+[conflation](Conflation.md): treating both the actual and cargo cult behavior as if they should have the same results\
+[ignorance](Ignorance.md)\
+[overfitting](Overfitting.md): related to underfitting?\
+[isomorphism](Isomorphism.md): to the cargo cult follower, their behavior is isomorphic to the behavior they're imitating; to the "actual practitioner" however, the cargo cult behavior is not isomorphic to their own\
+[empirical vs theoretical](Empirical%20vs%20theoretical.md): cargo cult is similar to not having the theory behind your actions\
 [evolution vs design](Evolution%20vs%20design.md)

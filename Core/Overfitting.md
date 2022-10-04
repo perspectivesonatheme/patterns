@@ -1,10 +1,10 @@
 When the interpretation {inference} is more precise than the data.
 
-Confusing noise for signal.  
-Treating a sample of the probability distribution as the value itself.  
+Confusing noise for signal.\
+Treating a sample of the probability distribution as the value itself.\
 Disregarding any uncertainty in the value.
 
-Apophenia: the human tendency to see patterns where none exist  
+Apophenia: the human tendency to see patterns where none exist\
 Clustering illusion
 
 Relation to Goodhart's law (optimizing a metric at the expense of others)
@@ -28,6 +28,6 @@ Underfitting:
 - facile
 - analysis paralysis
 
-[proxies](Proxies.md)  
-[priming](Priming.md): a prior is a guard against overfitting to new evidence  
+[proxies](Proxies.md)\
+[priming](Priming.md): a prior is a guard against overfitting to new evidence\
 [occam's razor](Occam's%20razor.md)

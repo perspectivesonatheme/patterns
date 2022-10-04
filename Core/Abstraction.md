@@ -1,12 +1,12 @@
 {Concepts}
 - this note deals with conceptual (map–territory) abstraction; need to normalize with [outsourcing](Outsourcing.md) and [integration](Integration.md)
 
-Objects that represent patterns across phenomena.  
-Commonalities as entities distinct from the instances in which they're found.  
-As a process: inducing a general concept from specific instances.  
+Objects that represent patterns across phenomena.\
+Commonalities as entities distinct from the instances in which they're found.\
+As a process: inducing a general concept from specific instances.\
 Universals
 
-Considering {regarding} one aspect of an object in isolation from others.  
+Considering {regarding} one aspect of an object in isolation from others.\
 Ignoring irrelevant details {information}.
 
 Pattern: similarity among phenomena
@@ -93,15 +93,15 @@ Examples:
 
 Anything to say about abstraction to the limit, as discussed [here](http://www.yesodweb.com/blog/2015/10/beginner-friendly-code-and-apis)?
 
-[levels](Levels.md)  
+[levels](Levels.md)\
 [emergence](Emergence.md): why do abstractions exist?
 
 
 ### Specialization
 The optimization of an abstraction for a specific case.
 
-Narrowing {contracting} the scope of an abstraction.  
-"Tightness" of an abstraction: how closely the abstraction fits its instances  
+Narrowing {contracting} the scope of an abstraction.\
+"Tightness" of an abstraction: how closely the abstraction fits its instances\
 Refinement
 
 Compared to "all under the same roof", "one size fits all"
@@ -120,8 +120,8 @@ Examples:
 - domain-specific vs general
 	- AI, languages
 
-[overfitting](Overfitting.md)  
-[overspecialization](Diversity.md#overspecialization)  
+[overfitting](Overfitting.md)\
+[overspecialization](Diversity.md#overspecialization)\
 [consensus](Diversity.md#consensus): consensus is a reduction of uncertainty which "clears the path" for specialization
 
 

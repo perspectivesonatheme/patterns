@@ -31,6 +31,6 @@ Examples:
 - data interchange formats like JSON and XML
 - monads allow monadic types to be composed in a uniform way (e.g. Haskell's do notation)
 
-[consensus](Diversity.md#consensus): having a single common interface can be more efficient than having multiple custom interfaces  
-[media](Media.md)  
+[consensus](Diversity.md#consensus): having a single common interface can be more efficient than having multiple custom interfaces\
+[media](Media.md)\
 [outsourcing](Outsourcing.md): outsourcing requires some sort of interface between the outsourcer and the outsourced

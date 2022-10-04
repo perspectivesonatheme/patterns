@@ -26,8 +26,8 @@ Also, interpreting absolute language as relative:
 
 {TODO: delineate absolute–relative vs fixed–relative}
 
-[dynamic analysis](Dynamic%20analysis.md)  
-[spectra](Spectra.md)  
-[priming](Priming.md)  
-[uncertainty](Uncertainty.md)  
+[dynamic analysis](Dynamic%20analysis.md)\
+[spectra](Spectra.md)\
+[priming](Priming.md)\
+[uncertainty](Uncertainty.md)\
 [affordance vs response](Affordance%20vs%20response.md): changing a movement's language vs changing how people interpret the movement's language
