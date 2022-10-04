@@ -36,10 +36,7 @@ Examples:
 - the unix philosophy
 - representative vs direct government
 - outsourcing to specialized (as opposed to general-purpose) hardware: floating point processing, GPUs
-
-Interface costs:
-- product packaging
-- cabling
+- Microsoft keeping the Xbox team separate from others
 
 [interfaces](Interfaces.md): e.g. between producers and suppliers (e.g. specifications)\
 [diversity](Diversity.md)

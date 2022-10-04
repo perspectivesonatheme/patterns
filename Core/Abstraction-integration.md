@@ -4,7 +4,7 @@ This note contains a high level overview.  For examples and more information on 
 
 
 **Abstraction** {destructuring, outsourcing, modularity}: pulling a part out into its own entity
-- *reuse* {deduplication, compression}: sharing of the part across multiple systems
+- *reuse* {deduplication, compression, versatility}: sharing of the part across multiple systems
 - *specialization*: optimization of the part's design for its specific purpose
 	- if the part is integrated, its design is constrained by the rest of the system (e.g. touchscreen vs hardware keyboard; software rendering vs GPU)
 <br><br>

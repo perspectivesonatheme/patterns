@@ -40,6 +40,9 @@ Examples:
 - starting a car engine
 - wetting current
 
+Growing pains\
+"Can’t make an omelet without breaking a few eggs."
+
 
 ### Critical mass
 When a certain level must be reached before a system becomes viable.

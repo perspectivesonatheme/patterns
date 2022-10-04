@@ -10,6 +10,7 @@
 <br><br>
 - Douglas Hofstadter - "Godel, Escher, Bach"
 - Stephen Wolfram - "A New Kind of Science"
+- Various works by Christopher Alexander
 <br><br>
 - General system theory (von Bertalanffy)
 - General semantics (Korzybski)

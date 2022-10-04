@@ -30,6 +30,7 @@ Examples:
 - standard cables and jacks (as compared to "hard-wired")
 - data interchange formats like JSON and XML
 - monads allow monadic types to be composed in a uniform way (e.g. Haskell's do notation)
+- dating apps/websites
 
 [consensus](Diversity.md#consensus): having a single common interface can be more efficient than having multiple custom interfaces\
 [media](Media.md)\

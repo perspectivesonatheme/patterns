@@ -1,16 +1,18 @@
 {TODO: normalize with [abstraction](Abstraction.md) and [outsourcing](Outsourcing.md)}
 - see [abstraction-integration](Abstraction-integration.md) for the tradeoffs between abstraction/outsourcing and integration
 
-When a high degree of consensus is reached around a particular system configuration, inter-component costs can outweigh the benefit of modular parts, leading to a monolithic system.  Inversely, a change in requirements (with a corresponding decrease in consensus) can cause the system to move back towards modular parts.  Same thing with an increase/decrease in inter-component costs causing a move towards/away from a monolithic system.
+When a high degree of consensus is reached around a particular system configuration, inter-component costs can outweigh the benefit of modular parts, leading to a monolithic system.  Inversely, a change in requirements (with a corresponding decrease in consensus) can cause the system to move back towards modular parts.  Same thing with an increase/decrease in inter-component costs causing a move towards/away from a monolithic system.  For example, decreasing shipping costs may mean that sourcing or assembling products locally is no longer cheaper than outsourcing to another country.
 
 For example, discrete audio components all take up physical space and require being hooked together with cables.  However, when they are integrated into a receiver, these costs are less than the sum of the individual costs—i.e. a receiver takes up less physical space (physical volume, cabinet space, etc) and requires less cabling than the sum of all the discrete components it replaces.  Integrating the parts allows for both an economy of scale (e.g. physical space) and a reduction of inter-component costs (e.g. cabling).  On the other hand, by tightly coupling the components, they can no longer be shared between systems or mix-and-matched with alternative components.  Additionally, because the receiver's components end up sharing parts like the case and power supply, these parts need to be general enough to meet the requirements of all the components instead of being optimized for any one in particular.
-- (Alternative example) Game consoles' CPUs and GPUs can share memory because they're an integrated unit (see, for example, the PS4 and Xbox One).  In contrast, gaming PCs with discrete GPUs bring their own memory because they're interchangeable and can't rely on the system meeting their memory requirements.
+- (Alternative example) Game consoles' CPUs and GPUs can share memory because they're an integrated unit (e.g. the PS4 and Xbox One).  In contrast, gaming PCs with discrete GPUs bring their own memory because they're interchangeable and can't rely on the system meeting their memory requirements.
 
 It's easier to verify the correctness of a system than to create the system yourself ([trapdoor](Search.md#trapdoor)).  For example, buying an integrated receiver vs building your own and ensuring that all the parts work well together.  A schematic abstracts out the design; a receiver abstracts out the design and construction.
 
 Integrated systems may be inefficient if their parts are general and can be used in many different types of systems.  Integration requires these parts to be duplicated across systems.
 
-Integrated vs abstracted is a relative distinction.  A software library is modular when compared to a program, but integrated when compared to the library's individual functions.
+Integrated vs modular is a relative distinction.  A software library is modular when compared to a program, but integrated when compared to the library's individual functions.
+
+A system may be integrated along one dimension but modular along another.  For example, a vertically integrated company is integrated with respect to suppliers, but modularized with respect to company overheads (e.g. HR, IT, facilities).  Instead of one set per supplier and producer, there is a total of one set for the integrated company.
 
 Consolidation\
 Locality
@@ -28,6 +30,8 @@ Disjoint: the state of being abstracted when integration would be more efficient
 Examples:
 - A/V receiver vs discrete A/V components (amp, preamp, DAC, etc)
 - IDE vs text editor + plugins + command line tools
+- plugin/extension systems
+	- "only pay for what you need", but adding search and configuration costs
 - framework vs set of libraries
 - Mathematica vs Python + NumPy, SciPy, etc
 - touchscreen vs hardware keyboard
@@ -38,7 +42,7 @@ Examples:
 - standalone camera vs smartphone + higher quality camera add-on
 - iPhone vs Google Ara
 - batteries: integrated -> removable but specialized (i.e. can be used only with a specific model) -> standardized (e.g. AA, external USB)
-	- also, phone battery-cases
+	- also, phone battery-cases, AirPods case
 - end-user repairability: progression from standardized parts (easy to fix) to integrated wholes (hard to fix)
 	- cars, home appliances, computers, electronics
 - game consoles vs gaming PCs
@@ -51,7 +55,7 @@ Examples:
 - Catholicism vs Buddhism
 - concentrated animal feeding operations vs family farms
 - books vs blog posts vs tweets
- 	- books' higher fixed costs (publisher requirements, physical production and distribution, etc) necessitate a larger volume of content over which those costs can be amortized
+	- books' higher fixed costs (publisher requirements, physical production and distribution, etc) necessitate a larger volume of content over which those costs can be amortized
 - waterfall vs agile software development
 	- a large release is an integration of multiple smaller releases
 	- as the fixed costs of releasing versions decreases (e.g. with digital distribution over the internet), it becomes beneficial to break up releases into smaller chunks
@@ -76,6 +80,7 @@ Examples:
 - synchronous vs asynchronous: synchronous is integration across time
 	- database consistency
 - pre-made food vs ingredients
+	- delivery services like hellofresh
 - BSD vs Gnu/Linux
 - large nuclear reactors vs small modular reactors
 - Wikipedia: centralized, has overarching guidelines, format, etc
@@ -96,7 +101,8 @@ Examples:
 - monolithic source code repositories vs repository-per-project
 - inline styling and templating vs separation of html, js, css
 - snapshots vs deltas for things like version control, data updates, etc
-- double-wide tires on semis vs two single-wide
+- double-wide tires ("super singles") on semis vs two single-wide
+- summer/winter tires vs all season
 - hotels vs airbnb
 - subtitles: baked into picture vs superimposed
 - when importing words from another language: whether to map that word's spelling, pronunciation, etc to the target language, or keep those things unchanged from the source language
@@ -104,7 +110,10 @@ Examples:
 - devops
 - single large/ultra-widescreen monitor vs dual smaller monitors
 - apps: abiding by platform standards or maintaining consistency across platforms for a given app
+- apps vs apps + widgets + actionable lock screen items
+	- abstracting functionality vs integrating functionality with various "interaction points"
 - dual cameras on phones: separate sensor and lens for telephoto
+- prime vs zoom lenses
 - wiring together software at the language level vs platform level
 	- e.g. FaaS
 - integrating compute infrastructure and software
@@ -117,6 +126,20 @@ Examples:
 - database normalization
 - fixed dumbbells vs dumbbell handle + plates
 - comforter vs duvet + duvet cover
+- smartphone vs home assistant (integrated on-person vs in-home)
+- arcade vs game console
+- UDP, QUIC, HTTP/3 vs TCP, HTTP/2
+- CDNs have multiple locations to minimize latency
+- local gaming system vs cloud gaming
+- many products under a single brand (e.g. Costco’s Kirkland Signature) vs one brand per product category
+- integrating transportation fare and destination vs flat-fee
+	- on long distance trains/buses, fare is based on destination; for transit trains/buses, transaction costs relative to overall cost is often too high to make pricing distance into the fare worthwhile
+- oil tanker vs container ship
+- JIT vs AOT compiler
+	- JIT more closely integrates compilation with the execution environment
+- following a recipe vs to-taste
+- cloud vs edge computing (vs client computing)
+	- centralized compute vs integrating compute and use across location
 
 
 [diversity](Diversity.md)\

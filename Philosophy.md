@@ -7,8 +7,7 @@
 
 ### Rationale {motivation}
 - The organization and integration of existing knowledge is a constructive pursuit that will become increasingly important as the state of the art becomes increasingly specialized.
-- Our intuitions already "compute" many of these patterns precisely and efficiently, often more so than we're able to consciously.  However, when individuals disagree, intuition provides little recourse because the rationale for an intuitive belief is often unknown or difficult to communicate.  Making these patterns explicit provides a language with which to reconcile conflicting intuitions, and may allow us to more easily recognize instances in which intuition fails to provide rational guidance.
-	- {Add to this: how intuition doesn't scale well with complexity or adapt readily to novel situations}
+- Our intuitions already "compute" many of these patterns precisely and efficiently, often more so than we're able to consciously.  However, when individuals disagree, intuition provides little recourse because the rationale for an intuitive belief is often unknown or difficult to communicate.  Making these patterns explicit provides a language with which to reconcile conflicting intuitions, and may allow us to more easily recognize instances in which intuition fails to provide rational guidance.  Additionally, intuition doesn't scale well with complexity or adapt readily to novel situations.
 
 ### Caveats
 - "No easy answers."  These are simple, general rules, but they can only be applied by taking into account the full complexity of a situation, which may include multiple levels and instances of interacting patterns, as well as complex inputs.

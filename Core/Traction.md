@@ -47,6 +47,9 @@ Examples:
 	- not loving at all is like pushing the curve so far to the left that there's no chance of heartbreak
 - Equilibrium (the movie): getting rid of all of the bad parts of human nature at the expense of all the good parts
 - race cars push the limit of performance, risking mechanical failures, safety, etc
+- optimizing filling a flight to the point of bumping passengers with tickets
+- product safety: trying to maximize likelihood of approving safe products, while not approving unsafe products
+- having one copy of the gene that causes sickle cell anemia increases an individual's resistance to malaria; having two copies causes the disease
 
 [accuracy and precision](Accuracy%20and%20precision.md): this pattern is due to imprecision in the control of the variables of interest\
 [criticality](Criticality.md)\

@@ -18,5 +18,6 @@ Examples:
 - thermostat
 - coping mechanisms
 - "Despite a clear increase in pesticide use, crop losses have not significantly decreased during the last 40 years. However, pesticide use has enabled farmers to modify production systems and to increase crop productivity without sustaining the higher losses likely to occur from an increased susceptibility to the damaging effect of pests." ([Crop losses to pests (The Journal of Agricultural Science)](https://www.cambridge.org/core/journals/journal-of-agricultural-science/article/div-classtitlecrop-losses-to-pestsdiv/AD61661AD6D503577B3E73F2787FE7B2))
+- economic elasticity
 
 [collateral displacement](Accuracy%20and%20precision.md#collateral-displacement)

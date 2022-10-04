@@ -11,8 +11,7 @@ Ignoring irrelevant details {information}.
 
 Pattern: similarity among phenomena
 - a pattern is implicit in its instances; an abstraction is an explicit object representing a pattern ([reification](Reification.md))
-- patterns are of the phenomena; abstractions are of the observer {word} about the patterns
-- abstractions only exist in the map, not the territory
+- patterns are of the territory; abstractions are of the map, about the patterns
 - for example, a repeated chunk of code is a pattern; a function that is called in place of each chunk is an abstraction
 - there can be multiple abstractions representing a single pattern; for example, multiple people looking at a repeated chunk of code will each have an abstraction in their minds representing it
 
@@ -44,7 +43,7 @@ Value of abstraction {TODO: refactor}:
 	- ability to predict the properties and behavior of novel instances (compared to guess and check, observe and recreate {word}, reverse engineer, etc)
 	- seems to be a common theme in the above; need to refactor
 	- another theme is functors: mapping a category into some isomorphic "virtual" category, performing an operation there, then mapping the result back to the "real" category
-- isolation of an aspect allows full application of computational/brain power to just that aspect instead of being distributed among all aspects of the system
+- isolation of an aspect allows full application of computational/brain power to just that aspect instead of being distributed among all aspects of the system; reductionism
 
 Different "views" of abstraction:
 - projection: considering an aspect in isolation
@@ -90,6 +89,11 @@ Examples:
 - freedom of speech: a general principle that is embodied in various laws, which themselves are embodied in the actual enforcement of those laws
 - education standards at the local, state, and federal levels (increasing levels of abstraction from the act of teaching)
 - money: a way of comparing values of otherwise incommensurable things
+- consistent schedules for public transportation vs on-demand
+	- consistent schedules abstract demand across hours/days/weeks
+	- higher transaction costs when they don't run consistently due to passengers needing to look up schedules on demand
+	- downside is that the schedule isn't always aligned with demand - there may not be enough riders to offset the cost of a trip, or vehicles may be crowded
+	- compared to the market-based surge pricing model of e.g. Uber
 
 Anything to say about abstraction to the limit, as discussed [here](http://www.yesodweb.com/blog/2015/10/beginner-friendly-code-and-apis)?
 
@@ -130,7 +134,9 @@ Expanding the scope of an abstraction.
 
 When dealing with imperfect {impure, non-ideal} abstractions, there will be a mismatch between the abstraction's intension and each of its instances.  Expanding the abstraction's intension to encompass novel instances decreases precision and increases mismatch, but allows for greater abstraction.  Past a certain point, this mismatch cost may outweigh the benefits of abstraction.
 
+Alternative/additional definition: after recognizing a perception as belonging to a concept, generalization is the projecting of the concept's properties onto the instance
+
 Examples:
 - lossy compression (e.g. for music) decreases file size at the expense of quality
-- labels, “-isms”
+- labels, “-isms”, ideologies
 - stereotypes

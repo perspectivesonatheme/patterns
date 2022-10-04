@@ -6,6 +6,8 @@
 [Interfaces](Core/Interfaces.md)\
 [A la carte](Core/A%20la%20carte.md)
 
+[Reification](Core/Reification.md)
+
 [Dynamic analysis](Core/Dynamic%20analysis.md)
 
 [Current practice](Core/Current%20practice.md)

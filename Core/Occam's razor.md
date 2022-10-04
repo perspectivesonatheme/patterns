@@ -1,7 +1,7 @@
 There is a complexity floor below which a theory will not have enough bits {degrees of freedom} to fit the data.  However, there is no ceiling—a theory with more bits than needed can still fit the data.  Among fitting theories, the more complex ones:
 - require more computation to apply and manipulate
 - obfuscate relationships and patterns with irrelevant information
-- suggest a more precise interpretation than is warranted
+- may suggest a more precise interpretation than is warranted
 
 Principle of parsimony
 
@@ -11,12 +11,12 @@ Principle of parsimony
 
 {Unify the following?}
 
-A sufficiently broad {adaptable} theory can appear to explain phenomena.
+A sufficiently broad {adaptable} theory can "explain" phenomena without predicting anything.
 
 Prediction, falsifiability, constraint of expectations
 
 Examples:
-- string theory?
+- string theory (perhaps debatable)
 - God as an omnipotent being with unknowable rationale
 - "There's no way the program should be doing that—must be a compiler bug."
 

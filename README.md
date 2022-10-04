@@ -29,9 +29,3 @@ If something can be improved, please let me know.  I'm specifically looking for 
 - writing style
 - presentation format, general approach
 - related works (other than those already [listed](Related%20works.md))
-
-
-### Donations
-Donations are greatly appreciated and can be made using one of the methods below.  All contributions go toward the development of this project.
-
-[Cryptocurrency](https://commerce.coinbase.com/checkout/bf8c4c1f-21c0-4195-8ef9-a07da36d9b94) | [Square Cash](https://cash.me/$perspectivesonatheme) | [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SFNYVQQ3H7TEC&lc=US&item_name=Perspectives%20on%20a%20Theme&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)

@@ -14,6 +14,8 @@ Only draw a line in the sand if it's defensible.\
 Bend, don't break.\
 Breakpoints
 
+Harm reduction vs abstinence, etc
+
 Cover-ups. The Streisand effect. Back-fire.
 - a successful cover-up will hide something, but an unsuccessful one will make it more visible than it otherwise would have been
 - by confessing, you maintain some control over the response (e.g. by initiating and framing the conversation)
@@ -48,9 +50,9 @@ Examples:
 	- inability to watch/play/listen without an internet connection
 	- bugs with HDCP implementation, preventing computer from displaying movies on the tv
 	- (see note in [utility](Utility.md))
-- same with parenting: sex, drugs; making a kid afraid of calling for help, or incentivizing them to drive home drunk instead of getting caught partying
+- making a kid afraid of calling parents for help, or incentivizing them to drive home drunk instead of getting caught partying
 - completely abstaining from something like soylent, which for some people would mean relying on hotdogs and pizza
-- outlawing abortion
+- abortion
 - immigration: making it easier/harder to legally immigrate
 - skate parks: kids skating vs causing trouble
 - bug bounty programs: giving hackers a legitimate way to make money
@@ -64,5 +66,9 @@ Examples:
 - controlled forest fire, avalanche blasting
 - stretching muscles
 - Google adding selective ad-blocking to Chrome
+- pandemic lockdowns
+	- can't completely keep people from doing what they will, so need to take that into account with messaging and when setting policy
+	- China's zero Covid policy
 
-{What exactly is the relationship to [traction](Traction.md)?  Sub-pattern?  Merge?}
+{What exactly is the relationship to [traction](Traction.md)?  Sub-pattern?  Merge?}\
+[deterrence](Deterrence.md)
