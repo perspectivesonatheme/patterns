@@ -1,8 +1,8 @@
 This project catalogs abstractions relating to language, knowledge, design, models, systems, and abstraction itself.  These abstractions serve as mental tools for reasoning about fields such as government, economics, psychology, technology, and science.
 
-**WARNING**: This is a work in progress.  Parts may be outright or subtly wrong, incomplete, oversimplified, or inconsistent, and many statements are given little to no justification or explanation.  Some notes are not yet ready to be made public because they need verification, cleanup, or refactoring.  Consequently, some links are broken.  These remaining notes will be added as they reach an acceptable state.
-
 See [Philosophy.md](Philosophy.md) for this project's guiding principles and rationale, along with caveats about its use.  [Organization.md](Organization.md) contains an overview of the patterns grouped roughly by correspondence, which may be helpful for guiding exploration.
+
+Note: this is a work in progress.  Parts may be outright or subtly wrong, incomplete, oversimplified, or inconsistent, and many statements are given little to no justification or explanation.  Some notes are not yet ready to be made public because they need verification, cleanup, or refactoring.  Consequently, some links are broken.  These remaining notes will be added as they reach an acceptable state.
 
 
 ### Format

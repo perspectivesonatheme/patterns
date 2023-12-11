@@ -5,7 +5,7 @@ The sets of disparate entities may be composed of competitive alternatives and/o
 The interface must provide the primitives necessary to "host" its users.
 - for example, IP can host any arbitrary data format
 - users unable to be hosted by the interface may be less viable than if there were no common interface because of the consolidation around the common interface
-	- similarity with [controlled defects](Controlled%20defects.md) or [watershed](Watershed.md): the hostable users are helped, the unhostable users are hurt
+	- similarity with [harm reduction](Harm%20reduction.md) or [watershed](Watershed.md): the hostable users are helped, the unhostable users are hurt
 - the common interface is essentially the least common multiple, or union, of all of its users' specialized interfaces (or the union of all one-to-one interfaces between all of its users)
 	- however, because of the costs of [generalization](Abstraction.md#generalization), the common interface may not provide a perfect superset of the specialized interface's functionality
 

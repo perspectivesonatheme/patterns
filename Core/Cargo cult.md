@@ -3,15 +3,15 @@ The imitation of behavior using insufficient fidelity to reproduce the desired e
 Recreating a correlation without the necessary causation.\
 The misattribution of effects.
 
-The lack of understanding of the rationale behind a behavior, resulting in incorrect reproduction.
+The lack of understanding of the rationale behind a behavior, resulting in failed reproduction.
 
 Doing things in a way that looks to be correct but in fact differs from the actual way, while still expecting to achieve the desired result.
 
 Examples:
-- we've forgotten why we teach some subjects in school, we just teach them because that's what you're supposed to teach
-- agile software development: enacting only the convenient processes and skipping some necessary ones
+- teaching a subject in school because that's what's supposed to be taught, instead of understanding why that subject is important to learn
+- agile software development: enacting only convenient processes while skipping necessary ones
 - giving presents: the reason why we give presents vs giving presents because that's what you're supposed to do
-- rat race {verify}
+- similar: rat race
 - when intramural sports teams use the strategies of the pros, even though the dynamics of the game at the lower skill level are significantly different and teams would be better served by a strategy specialized to their level
 	- taking advantage of this bias: the high school football team that never punts
 	- the flip side: copying the strategies of the pros is easier; doesn't require deep knowledge of the game, which is likely overkill at the intramural level
@@ -29,6 +29,7 @@ Also: "successful cargo cult" {rename}: when an incidental {apparent, imaginary,
 	- prayer is a sufficient condition for the benefits, not a necessary one
 - religion, traditions in general
 	- kosher, not eating pork, etc
+	- lent - fasting
 - [right for the wrong reasons](Justified%20beliefs.md)
 - regular cargo cult is a misattribution of effect; this is a misjustification of behavior
 

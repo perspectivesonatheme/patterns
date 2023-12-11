@@ -2,10 +2,10 @@
 
 The priming of expectations.
 
-Evaluation of an uncertainty using indirect evidence.\
-Experiences create expectations (accommodation) which then influence the interpretation of future experiences (assimilation).\
-Experience modifies our mental basis, which modifies our experience.\
-The feedback between perception and belief.
+Evaluation of an uncertainty using indirect evidence\
+Experiences create expectations (accommodation) which then influence the interpretation of future experiences (assimilation)\
+Experience modifies our mental basis, which modifies our experience\
+The feedback between perception and belief
 
 Statistical inference: inferring properties of an underlying distribution through analysis of samples.  Specifically, Bayesian inference, which this pattern is an instance of.
 
@@ -18,7 +18,7 @@ Due to uncertainty, it's not always rational to update a belief {basis, schema} 
 - "Extraordinary claims require extraordinary evidence." (Carl Sagan)
 - Carl Sagan, “The Burden of Skepticism”
 - (When asked what he would have done had Sir Eddington's observations been inconsistent with his theory of general relativity) "Then I would have been sorry for the dear Lord; the theory is correct." (Einstein)
-- “In 1781, Isaac Newton’s laws of motion and gravitation were used to predict the orbit of a newly discovered planet called Uranus. The prediction was wrong. But instead of accepting that Newton’s laws were thus falsified, the problem was solved simply by tinkering with the auxiliary assumptions, in this case by making the box a little bigger. John Adams and Urbain Le Verrier independently proposed that there was an as-yet-unobserved eighth planet in the solar system that was perturbing the orbit of Uranus. Neptune was duly discovered, in 1846, very close to the position predicted by Le Verrier.“ (https://aeon.co/essays/post-empirical-science-is-an-oxymoron-and-it-is-dangerous)
+- "In 1781, Isaac Newton’s laws of motion and gravitation were used to predict the orbit of a newly discovered planet called Uranus. The prediction was wrong. But instead of accepting that Newton’s laws were thus falsified, the problem was solved simply by tinkering with the auxiliary assumptions, in this case by making the box a little bigger. John Adams and Urbain Le Verrier independently proposed that there was an as-yet-unobserved eighth planet in the solar system that was perturbing the orbit of Uranus. Neptune was duly discovered, in 1846, very close to the position predicted by Le Verrier." (https://aeon.co/essays/post-empirical-science-is-an-oxymoron-and-it-is-dangerous)
 
 Dogma: something like an absolute prior\
 Retrodiction: using present information to explain past events

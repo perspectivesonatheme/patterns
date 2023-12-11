@@ -1,10 +1,10 @@
-{Rename: unenforceable restrictions}
-
-When defects are bound to form, it can be beneficial to introduce them in a controlled way so as to minimize their impact.
+Minimizing the negative effects of undesirable, but unpreventable, behavior.
 
 Giving unpreventable behavior a safe outlet, even though it might increase its prevalence.\
-The balance between providing an outlet but reinforcing undesirable behavior, and discouraging undesirable behavior but pushing its practice to the unregulated margins.
+The balance between providing an outlet but reinforcing undesirable behavior, and discouraging undesirable behavior but pushing its practice to the unregulated margins.\
+When defects are bound to form, it can be beneficial to introduce them in a controlled way so as to minimize their impact.
 
+Controlled defects\
 Relaxing restrictions when they are unenforceable.\
 Maintaining control of a system even when there are costs to doing so.
 

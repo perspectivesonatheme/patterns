@@ -1,8 +1,8 @@
-When the interpretation {inference} is more precise than the data.
+When the model is more precise than the thing being modeled.
 
-Confusing noise for signal.\
-Treating a sample of the probability distribution as the value itself.\
-Disregarding any uncertainty in the value.
+Confusing noise for signal\
+Treating a sample of a probability distribution as the value itself\
+Disregarding any uncertainty in the value
 
 Apophenia: the human tendency to see patterns where none exist\
 Clustering illusion
@@ -23,6 +23,7 @@ Examples:
 	- not that this is necessarily a bad thing or not the "point" of the artwork - how someone interprets ambiguity can be enlightening to themselves or others
 - "jack of all trades, master of none" (underfitting) vs "one trick pony" (overfitting)
 - learning to play piano by practicing only a single song
+- publication bias: training without testing
 
 Underfitting:
 - oversimplification

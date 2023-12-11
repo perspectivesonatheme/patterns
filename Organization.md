@@ -30,5 +30,5 @@
 [Priority](Core/Priority.md)
 
 [Criticality](Core/Criticality.md)\
-[Controlled defects](Core/Controlled%20defects.md)\
+[Harm reduction](Core/Harm%20reduction.md)\
 [Traction](Core/Traction.md)
