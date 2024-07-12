@@ -5,13 +5,16 @@ The transition of a system between two different classes of behavior.
 
 There can be hidden or opportunity costs to approaching 100% utilization (see personal free time example).
 
-"The last straw".  Percolation models.  Tipping points.  Phase transition.
+"The last straw"\
+Percolation models\
+Tipping points\
+Phase transition
 
 Examples:
 - sizing hash tables
 - employee productivity vs {vacation time, work hours / week, etc}
 - personal free time - you could think: I'm only actively doing something for 50% of my free time; that means I'm wasting 50%.  But you have to price in the benefits of down time: stress relief, giving your mind time off to digest what it's learned and come up with new ideas.
-- traffic: decline in traffic flux past a critical density
+- traffic: decline in traffic throughput past a critical density
 - language: the use of "big words" is beneficial up to the point of a reader's ability to interpret their meaning, beyond which understanding drops off sharply
 	- same with foreign language comprehension: if you miss the meaning on any one significant word, it can disrupt your ability to understand the whole (percolation model)
 - how much coal a worker can carry vs the size of the shovel

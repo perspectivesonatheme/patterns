@@ -5,6 +5,7 @@
 [Economy of scale](Core/Economy%20of%20scale.md)\
 [Interfaces](Core/Interfaces.md)\
 [A la carte](Core/A%20la%20carte.md)
+[Diversity](Core/Diversity.md)
 
 [Reification](Core/Reification.md)
 

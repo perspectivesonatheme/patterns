@@ -25,7 +25,7 @@ Cargo cult repeated on top of cargo cult is like dead reckoning (see [history](D
 - similarity with (opposite of) idempotence?
 
 Also: "successful cargo cult" {rename}: when an incidental {apparent, imaginary, arbitrary} reason is used to justify a beneficial behavior.  Note that this focuses on the cargo cult aspect—these things aren't necessarily misjustified.
-- praying may be good for a person (e.g. being thankful, as a form of meditation, a way to show others you care, etc), but these reasons are distinct from the "appealing to a higher power" reason
+- praying may be good for a person (e.g. being thankful, as a form of meditation, a way to show others you care, etc), but these reasons are distinct from the "appealing to a higher power" (when taken literally) reason
 	- prayer is a sufficient condition for the benefits, not a necessary one
 - religion, traditions in general
 	- kosher, not eating pork, etc

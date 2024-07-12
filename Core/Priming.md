@@ -19,6 +19,7 @@ Due to uncertainty, it's not always rational to update a belief {basis, schema} 
 - Carl Sagan, “The Burden of Skepticism”
 - (When asked what he would have done had Sir Eddington's observations been inconsistent with his theory of general relativity) "Then I would have been sorry for the dear Lord; the theory is correct." (Einstein)
 - "In 1781, Isaac Newton’s laws of motion and gravitation were used to predict the orbit of a newly discovered planet called Uranus. The prediction was wrong. But instead of accepting that Newton’s laws were thus falsified, the problem was solved simply by tinkering with the auxiliary assumptions, in this case by making the box a little bigger. John Adams and Urbain Le Verrier independently proposed that there was an as-yet-unobserved eighth planet in the solar system that was perturbing the orbit of Uranus. Neptune was duly discovered, in 1846, very close to the position predicted by Le Verrier." (https://aeon.co/essays/post-empirical-science-is-an-oxymoron-and-it-is-dangerous)
+- "Be open minded but not so much that your brain falls out."
 
 Dogma: something like an absolute prior\
 Retrodiction: using present information to explain past events

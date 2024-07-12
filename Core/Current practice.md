@@ -20,6 +20,7 @@ Examples:
 	- similarly, "the future is female"
 - "black lives matter" vs "all lives matter"
 	- "all lives matter" is a fixed goal; "black lives matter" is a correction
+- preferring encountering a bear in the woods than a man
 
 Also, interpreting absolute language as relative:
 - Peter Thiel: "I think a lot of the voters who vote for Trump take Trump seriously, but not literally."

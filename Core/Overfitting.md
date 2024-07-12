@@ -30,6 +30,7 @@ Underfitting:
 - facile
 - analysis paralysis
 
+[overspecialization](Diversity.md#overspecialization)\
 [proxies](Proxies.md)\
 [priming](Priming.md): a prior is a guard against overfitting to new evidence\
 [occam's razor](Occam's%20razor.md)

@@ -140,6 +140,7 @@ Examples:
 - following a recipe vs to-taste
 - cloud vs edge computing (vs client computing)
 	- centralized compute vs integrating compute and use across location
+- active vs passive speakers
 
 
 [diversity](Diversity.md)\
